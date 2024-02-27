@@ -1,0 +1,7 @@
+C:\fgf\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\fgf\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\fgf\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\fgf\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.AssemblyReference.cache
+C:\fgf\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\fgf\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
+C:\fgf\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb

@@ -1,0 +1,6 @@
+C:\fgf\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\fgf\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\fgf\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\fgf\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\fgf\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\fgf\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
