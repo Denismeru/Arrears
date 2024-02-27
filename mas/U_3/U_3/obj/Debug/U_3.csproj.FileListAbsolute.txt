@@ -1,0 +1,7 @@
+C:\fgf\U_3\U_3\bin\Debug\U_3.exe.config
+C:\fgf\U_3\U_3\bin\Debug\U_3.exe
+C:\fgf\U_3\U_3\bin\Debug\U_3.pdb
+C:\fgf\U_3\U_3\obj\Debug\U_3.csproj.AssemblyReference.cache
+C:\fgf\U_3\U_3\obj\Debug\U_3.csproj.CoreCompileInputs.cache
+C:\fgf\U_3\U_3\obj\Debug\U_3.exe
+C:\fgf\U_3\U_3\obj\Debug\U_3.pdb
