@@ -1,0 +1,13 @@
+            BinaryWriter f = new BinaryWriter(new FileStream("binary.dat", FileMode.Create));
+Random r = new Random();
+while (i < n)
+{
+        double number1 = r.NextDouble();
+        double number2 = r.NextDouble();
+        string result1 = string.Format("{0:f}", number1);
+        string result2 = string.Format("{0:f}", number2);
+        f.Write($"{result1}");
+        f.Write($"{result2}");
+    i++;
+}
+f.Close();

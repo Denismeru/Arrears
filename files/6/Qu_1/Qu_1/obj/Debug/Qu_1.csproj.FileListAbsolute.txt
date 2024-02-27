@@ -1,0 +1,7 @@
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\bin\Debug\Qu_1.exe.config
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\bin\Debug\Qu_1.exe
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\bin\Debug\Qu_1.pdb
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\obj\Debug\Qu_1.csproj.AssemblyReference.cache
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\obj\Debug\Qu_1.csproj.CoreCompileInputs.cache
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\obj\Debug\Qu_1.exe
+C:\ис-21\Махт_Ткаченко\files\6\Qu_1\Qu_1\obj\Debug\Qu_1.pdb
