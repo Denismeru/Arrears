@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\7\8\8\bin\Debug\8.exe.config
+C:\Users\LENOVO\Downloads\7\8\8\bin\Debug\8.exe
+C:\Users\LENOVO\Downloads\7\8\8\bin\Debug\8.pdb
+C:\Users\LENOVO\Downloads\7\8\8\obj\Debug\8.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\7\8\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\7\8\8\obj\Debug\8.exe
+C:\Users\LENOVO\Downloads\7\8\8\obj\Debug\8.pdb
+C:\Users\LENOVO\Downloads\8\8\8\bin\Debug\8.exe.config
+C:\Users\LENOVO\Downloads\8\8\8\bin\Debug\8.exe
+C:\Users\LENOVO\Downloads\8\8\8\bin\Debug\8.pdb
+C:\Users\LENOVO\Downloads\8\8\8\obj\Debug\8.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\8\8\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\8\8\8\obj\Debug\8.exe
+C:\Users\LENOVO\Downloads\8\8\8\obj\Debug\8.pdb

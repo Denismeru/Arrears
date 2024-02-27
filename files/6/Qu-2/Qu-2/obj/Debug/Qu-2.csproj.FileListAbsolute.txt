@@ -1,0 +1,14 @@
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\bin\Debug\Qu-2.exe.config
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\bin\Debug\Qu-2.exe
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\bin\Debug\Qu-2.pdb
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\obj\Debug\Qu-2.csproj.AssemblyReference.cache
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\obj\Debug\Qu-2.csproj.CoreCompileInputs.cache
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\obj\Debug\Qu-2.exe
+C:\ис-21\Махт_Ткаченко\files\6\Qu-2\Qu-2\obj\Debug\Qu-2.pdb
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\bin\Debug\Qu-2.exe.config
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\bin\Debug\Qu-2.exe
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\bin\Debug\Qu-2.pdb
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\obj\Debug\Qu-2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\obj\Debug\Qu-2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\obj\Debug\Qu-2.exe
+C:\Users\LENOVO\Downloads\6\6\Qu-2\Qu-2\obj\Debug\Qu-2.pdb

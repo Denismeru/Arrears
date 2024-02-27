@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\bin\Debug\Qu_2.exe.config
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\bin\Debug\Qu_2.exe
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\bin\Debug\Qu_2.pdb
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\obj\Debug\Qu_2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\obj\Debug\Qu_2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\obj\Debug\Qu_2.exe
+C:\Users\LENOVO\Downloads\7\Qu_2\Qu_2\obj\Debug\Qu_2.pdb

@@ -1,0 +1,5 @@
+ maxX = fin.ReadDouble();
+ maxY = fin.ReadDouble();
+ Console.WriteLine();
+ Console.WriteLine("max X = " + maxX);
+ Console.WriteLine("max Y = " + maxY);
