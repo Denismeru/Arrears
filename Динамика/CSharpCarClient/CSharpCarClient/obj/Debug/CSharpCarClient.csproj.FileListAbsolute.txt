@@ -1,0 +1,10 @@
+C:\fgf\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\fgf\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\fgf\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\fgf\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.dll
+C:\fgf\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.pdb
+C:\fgf\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.AssemblyReference.cache
+C:\fgf\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\fgf\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CopyComplete
+C:\fgf\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\fgf\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
