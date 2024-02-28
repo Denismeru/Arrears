@@ -1,0 +1,7 @@
+C:\fgf\SemaphoreApp\SemaphoreApp\bin\Debug\SemaphoreApp.exe.config
+C:\fgf\SemaphoreApp\SemaphoreApp\bin\Debug\SemaphoreApp.exe
+C:\fgf\SemaphoreApp\SemaphoreApp\bin\Debug\SemaphoreApp.pdb
+C:\fgf\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.csproj.AssemblyReference.cache
+C:\fgf\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.csproj.CoreCompileInputs.cache
+C:\fgf\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.exe
+C:\fgf\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.pdb
