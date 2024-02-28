@@ -1,0 +1,7 @@
+C:\fgf\AsinApp\AsinApp\bin\Debug\AsinApp.exe.config
+C:\fgf\AsinApp\AsinApp\bin\Debug\AsinApp.exe
+C:\fgf\AsinApp\AsinApp\bin\Debug\AsinApp.pdb
+C:\fgf\AsinApp\AsinApp\obj\Debug\AsinApp.csproj.AssemblyReference.cache
+C:\fgf\AsinApp\AsinApp\obj\Debug\AsinApp.csproj.CoreCompileInputs.cache
+C:\fgf\AsinApp\AsinApp\obj\Debug\AsinApp.exe
+C:\fgf\AsinApp\AsinApp\obj\Debug\AsinApp.pdb
